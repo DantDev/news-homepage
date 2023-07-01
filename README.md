@@ -48,5 +48,5 @@ Users should be able to:
 
 - Website - [Pedro Calixto](https://wondrous-chaja-b0f2e7.netlify.app/)
 - Frontend Mentor - [@DantDev](https://www.frontendmentor.io/profile/DantDev)
-- GitHub - [@DantDev] (https://github.com/DantDev)
+- GitHub - [@DantDev](https://github.com/DantDev)
 - Instagram - [@P3drr0](https://www.instagram.com/p3drr0)
