@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-news-homepage-made-with-reactjs-vite-css-variables-O6mJ1nZBmq)
 - Live Site URL: [News Homepage](https://remarkable-marzipan-76ed08.netlify.app/)
 - Repository Page: [GitHub](https://github.com/DantDev/news-homepage)
 
