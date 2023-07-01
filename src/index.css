@@ -79,6 +79,10 @@ body{
   margin-left: 35px;
 }
 
+.menu li:nth-child(5){
+  margin-right: 15px;
+}
+
 .menu li a{
   color: var(--clr-dark-grayish-blue);
   text-decoration: none;
@@ -373,6 +377,10 @@ hr{
     font-size: 1em;
   }
   
+  .menu li:nth-child(5){
+    margin-right: 0;
+  }
+
   .menu li a {
     color: var(--clr-very-dark-blue);
     padding: 15px;
